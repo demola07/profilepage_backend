@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://demola:demola@cluster0-yxizt.mongodb.net/test?retryWrites=true&w=majority"
+}
