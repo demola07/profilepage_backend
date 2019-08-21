@@ -5,6 +5,7 @@ const connectDB = require("./config/db");
 const form = require("./route/api/form");
 const cors = require("cors");
 app.use(cors());
+
 //Connect Database
 connectDB();
 
